@@ -7,6 +7,6 @@ The thing, I would never forgot is that its extremly difficult to handsolder 040
 
 This is a simple board with  UART,SPI and I2C interface.
 
-![stm32_model](https://github.com/KimagureCookie/Stn32demoboard/blob/main/stm32_3D.jpg)
+![stm32_model](https://github.com/KimagureCookie/Stn32demoboard/blob/main/stm32_3D.png)
 ![stm32demopic](https://github.com/KimagureCookie/Stn32demoboard/blob/main/stm32_board.jpg)
 
